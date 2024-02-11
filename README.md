@@ -1,1 +1,1 @@
-# Binary-Sentiment-Analysis
+# Binary-Sentiment-Classification
